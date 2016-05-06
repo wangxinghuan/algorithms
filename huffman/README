@@ -1,0 +1,13 @@
+These are some programs dealing with the least variance Huff coding...
+
+Useage:
+    First:
+        you need creat a file named as *.txt(eg: a.txt) 
+    Second:
+        make table //creat table.txt
+    Third:
+        make encode //creat *_code.txt
+    Fourth:
+        make decode //creat *_decode.txt
+    Final:
+        make clear //delete files related to programs
